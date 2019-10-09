@@ -22,6 +22,13 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 3. Conclusion from results: For different needs, suggest the best place to stay/invest.
 4. Write the blog following: Introduction, 3 questions (with hgihlighted title), conclusion/echo/action.
 
+## Python libraries used:
+import datetime
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 ##  Next Challenge:
 1. Compared to other popular cities in different area to see if any common features
 2. For investment, estimate the return in each city and find the best option
