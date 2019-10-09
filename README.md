@@ -5,11 +5,7 @@ Udacity Data Science Nanodegree - Create a Blog Post
 Bostone_AirBnB data (https://www.kaggle.com/airbnb/boston)
 
 ## Python libraries used:
-import datetime
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
+datetime, pandas, numpy, seaborn, matplotlib.pyplot  
 
 ## Purpose:
 This analysis is to find the most imp ortant features of Boston's AirBnB market upon the given period. It could help either the visitor or the potential host to make correct decision. Basically, it will look into the data and answer where, when and what are the best target if any vacation or investment is in plan.
