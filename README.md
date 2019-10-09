@@ -4,6 +4,13 @@ Udacity Data Science Nanodegree - Create a Blog Post
 ## Data source
 Bostone_AirBnB data (https://www.kaggle.com/airbnb/boston)
 
+## Python libraries used:
+import datetime
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 ## Purpose:
 This analysis is to find the most imp ortant features of Boston's AirBnB market upon the given period. It could help either the visitor or the potential host to make correct decision. Basically, it will look into the data and answer where, when and what are the best target if any vacation or investment is in plan.
 
@@ -22,12 +29,8 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 3. Conclusion from results: For different needs, suggest the best place to stay/invest.
 4. Write the blog following: Introduction, 3 questions (with hgihlighted title), conclusion/echo/action.
 
-## Python libraries used:
-import datetime
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
+## Findings:
+TBD
 
 ##  Next Challenge:
 1. Compared to other popular cities in different area to see if any common features
