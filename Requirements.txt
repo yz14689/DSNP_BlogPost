@@ -1,0 +1,4 @@
+# In order to run the code in this project, the following tools/packages are required:
+
+- python3 
+- python packages: datetime, pandas, numpy, seaborn, matplotlib
