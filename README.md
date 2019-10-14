@@ -20,9 +20,9 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 1. Load and clean the data
 2. Merge all three datasets and dig with questions
 3. Visualize for 
-   location (strat by average rating, demanding, room type), - heatmap
-   demanding (strat by time, location, rating) 
-   Plot price (strat by location, demanding, room type, discount) - histgram  
+   location (strat by average rating, demanding, room type) 
+   Availability (strat by time, weekday, location, min nights) 
+   Plot price (strat by location, demanding, room type, discount)    
 3. Conclusion from results: For different needs, suggest the best place to stay/invest.
 4. Write the blog following: Introduction, 3 questions (with hgihlighted title), conclusion/echo/action.
 
@@ -33,3 +33,5 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 1. Compared to other popular cities (such as New York City, Orlando, etc.) to see if any common features
 2. For investment, estimate the return in each neighborhood/property type and find the best option
  
+## Final post on Medium link:
+https://medium.com/@yanzhang14689/boston-airbnb-a3f042f8abf1
