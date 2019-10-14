@@ -14,7 +14,7 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 ## Questions to be answered:
 1. Where to stay: Does location really drive your first choice or think more? Does the room impact decion as well? Does location in line with ratings? 
 2. When to visit:  Timing: Does season or event really matter? Does the price echo the demanding?
-3. What to expect: Is the cost of stay associated with rating/room/etc? How to save some money?
+3. What to expect: Is the cost of stay associated with rating/room/etc?  
 
 ## Analysis Steps:
 1. Load and clean the data
@@ -27,9 +27,9 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 4. Write the blog following: Introduction, 3 questions (with hgihlighted title), conclusion/echo/action.
 
 ## Findings:
-TBD
+(see details in the blog)
 
 ##  Next Challenge:
-1. Compared to other popular cities in different area to see if any common features
-2. For investment, estimate the return in each city and find the best option
+1. Compared to other popular cities (such as New York City, Orlando, etc.) to see if any common features
+2. For investment, estimate the return in each neighborhood/property type and find the best option
  
