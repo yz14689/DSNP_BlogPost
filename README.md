@@ -27,7 +27,9 @@ This analysis is to find the most imp ortant features of Boston's AirBnB market 
 4. Write the blog following: Introduction, 3 questions (with hgihlighted title), conclusion/echo/action.
 
 ## Findings:
-(see details in the blog)
+1. Location does matter regarding the availablity and there are top 5 neighborhood leading the inventory
+2. Holiday season apprently has much more availability, and dropped right after and again in March. But the availability through the week does not shift much while weenend is slightly higher than weekdays.
+3. On pricing, weekend definitely dominates the pricing. Allston and Brington give lower price than the other 3 neighborhoods at top 5. Staying more than 7 nights would basically save a lot. 
 
 ##  Next Challenge:
 1. Compared to other popular cities (such as New York City, Orlando, etc.) to see if any common features
