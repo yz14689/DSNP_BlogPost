@@ -1,5 +1,5 @@
 # Project Name: Blog Post
-Udacity Data Science Nanodegree - Create a Blog Post
+Udacity Data Scientist Nanodegree - Create a Blog Post
 
 ## Data source
 Bostone_AirBnB data (https://www.kaggle.com/airbnb/boston)
